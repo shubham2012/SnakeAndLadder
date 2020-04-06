@@ -30,6 +30,12 @@ There won’t be a snake at 100.\
 There won’t be multiple snakes/ladders at the same start/head point.\
 It is possible to reach 100, i.e., it is possible to win the game.\
 Snakes and Ladders do not form an infinite loop.
+## Other requirements 
+The game is played with two dice instead of 1 and so the total dice value could be between 2 to 12 in a single move.\
+The board size can be customizable and can be taken as input before other input (snakes, ladders, players).\
+In case of more than 2 players, the game continues until only one player is left.\
+On getting a 6, you get another turn and on getting 3 consecutive 6s, all the three of those get cancelled.\
+On starting the application, the snakes and ladders should be created programmatically without any user input, keeping in mind the constraints mentioned in rules
 ## Sample Input
 9\
 62 5\
