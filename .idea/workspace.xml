@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="325ddb01-5fe3-4b81-be28-99fc4579d28f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9oXoOwjiha16a8bnPrSrm75pg" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SnakeAndLadderControllerTest.test_start_game_with_4_players_with_2_dice">
+    <configuration name="SnakeAndLadderControllerTest.test_start_game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.SnakeAndLadderControllerTest" />
+      <option name="METHOD_NAME" value="test_start_game" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnakeAndLadderControllerTest.test_start_game_with_2_players" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.SnakeAndLadderControllerTest" />
+      <option name="METHOD_NAME" value="test_start_game_with_2_players" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnakeAndLadderControllerTest.test_start_game_with_4_players" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.SnakeAndLadderControllerTest" />
+      <option name="METHOD_NAME" value="test_start_game_with_4_players" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnakeAndLadderControllerTest.test_start_game_with_4_players_with_2_dice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.SnakeAndLadderControllerTest" />
+      <option name="METHOD_NAME" value="test_start_game_with_4_players_with_2_dice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SnakeAndLadderControllerTest.test_start_game_with_4_players_with_2_dice" />
+        <item itemvalue="JUnit.SnakeAndLadderControllerTest.test_start_game_with_4_players" />
+        <item itemvalue="JUnit.SnakeAndLadderControllerTest.test_start_game_with_2_players" />
+        <item itemvalue="JUnit.SnakeAndLadderControllerTest.test_start_game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="325ddb01-5fe3-4b81-be28-99fc4579d28f" name="Default Changelist" comment="" />
+      <created>1586157212735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586157212735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1586160238058">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1586160238058" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1586168020367">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586168020367" />
+    <state x="483" y="166" key="#xdebugger.evaluate" timestamp="1586171149578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="166" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1586171149578" />
+    <state width="1398" height="317" key="GridCell.Tab.0.bottom" timestamp="1586173798526">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="317" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586173798526" />
+    <state width="1398" height="317" key="GridCell.Tab.0.center" timestamp="1586173798524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="317" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586173798524" />
+    <state width="1398" height="317" key="GridCell.Tab.0.left" timestamp="1586173798524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="317" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586173798524" />
+    <state width="1398" height="317" key="GridCell.Tab.0.right" timestamp="1586173798525">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="317" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586173798525" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1586171201024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586171201024" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1586171201022">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586171201022" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1586171201021">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586171201021" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1586171201023">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586171201023" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1586169395380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586169395380" />
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586167070718">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1586167070718" />
+    <state x="494" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586166017287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="494" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1586166017287" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1586167335103">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586167335103" />
+  </component>
+</project>
